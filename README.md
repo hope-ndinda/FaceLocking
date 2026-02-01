@@ -14,6 +14,7 @@ The target identity is manually selected in the code:
 
 ```python
 TARGET_IDENTITY = "Hope"
+```
 
 Only this enrolled identity can be locked and tracked.
 Other detected faces are ignored once the lock is active.
